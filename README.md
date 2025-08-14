@@ -57,12 +57,4 @@ A simple React + Vite app that displays real-time prices of your cryptocurrency 
 
 4. open http://localhost:5173/ in your browser.
 
-## Project Structure
-crypto-tracker/
-├── src/
-│   ├── components/
-│   │   ├── CoinList.jsx         <!-- Lists each coin and its value -->
-│   │   └── PortfolioSummary.jsx <!-- Shows total portfolio value -->
-│   └── App.jsx                  <!-- App container integrating components -->
-├── index.html
-└── vite.config.js
+
